@@ -1,0 +1,12 @@
+# C 构建产物（由 build.bat 可重新生成）
+*.obj
+*.exe
+*.lib
+*.exp
+
+# 运行时生成
+config.json
+logs/
+
+# TRAE 个人工具配置
+.trae/
